@@ -1,0 +1,23 @@
+[0.652s] Invoking command in '/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays': PYTHONPATH=/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/prefix_override:/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build install --record /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
+[0.851s] running egg_info
+[0.852s] writing build/merge_arrays/merge_arrays.egg-info/PKG-INFO
+[0.852s] writing dependency_links to build/merge_arrays/merge_arrays.egg-info/dependency_links.txt
+[0.853s] writing entry points to build/merge_arrays/merge_arrays.egg-info/entry_points.txt
+[0.853s] writing requirements to build/merge_arrays/merge_arrays.egg-info/requires.txt
+[0.853s] writing top-level names to build/merge_arrays/merge_arrays.egg-info/top_level.txt
+[0.855s] reading manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.856s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.856s] running build
+[0.856s] running build_py
+[0.857s] running install
+[0.857s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.857s]   warnings.warn(
+[0.857s] running install_lib
+[0.859s] running install_data
+[0.860s] running install_egg_info
+[0.861s] removing '/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info' (and everything under it)
+[0.861s] Copying build/merge_arrays/merge_arrays.egg-info to /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info
+[0.863s] running install_scripts
+[0.881s] Installing merge_arrays_node script to /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/merge_arrays
+[0.881s] writing list of installed files to '/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/install.log'
+[0.900s] Invoked command in '/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays' returned '0': PYTHONPATH=/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/prefix_override:/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build install --record /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed

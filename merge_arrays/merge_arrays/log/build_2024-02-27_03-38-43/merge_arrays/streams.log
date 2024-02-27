@@ -1,0 +1,39 @@
+[0.802s] Invoking command in '/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays': PYTHONPATH=/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/prefix_override:/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build install --record /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
+[1.049s] running egg_info
+[1.050s] creating build/merge_arrays/merge_arrays.egg-info
+[1.050s] writing build/merge_arrays/merge_arrays.egg-info/PKG-INFO
+[1.050s] writing dependency_links to build/merge_arrays/merge_arrays.egg-info/dependency_links.txt
+[1.051s] writing entry points to build/merge_arrays/merge_arrays.egg-info/entry_points.txt
+[1.052s] writing requirements to build/merge_arrays/merge_arrays.egg-info/requires.txt
+[1.052s] writing top-level names to build/merge_arrays/merge_arrays.egg-info/top_level.txt
+[1.052s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[1.055s] reading manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[1.056s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[1.057s] running build
+[1.057s] running build_py
+[1.057s] creating /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build
+[1.058s] creating /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build/lib
+[1.058s] creating /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[1.059s] copying merge_arrays/__init__.py -> /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[1.059s] copying merge_arrays/merge_arrays_node.py -> /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[1.059s] running install
+[1.060s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.060s]   warnings.warn(
+[1.060s] running install_lib
+[1.062s] creating /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[1.062s] copying /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build/lib/merge_arrays/__init__.py -> /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[1.063s] copying /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build/lib/merge_arrays/merge_arrays_node.py -> /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[1.063s] byte-compiling /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/__init__.py to __init__.cpython-310.pyc
+[1.064s] byte-compiling /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/merge_arrays_node.py to merge_arrays_node.cpython-310.pyc
+[1.064s] running install_data
+[1.065s] creating /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/share/ament_index
+[1.065s] creating /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/share/ament_index/resource_index
+[1.066s] creating /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/share/ament_index/resource_index/packages
+[1.066s] copying resource/merge_arrays -> /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/share/ament_index/resource_index/packages
+[1.066s] copying package.xml -> /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/share/merge_arrays
+[1.066s] running install_egg_info
+[1.068s] Copying build/merge_arrays/merge_arrays.egg-info to /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info
+[1.069s] running install_scripts
+[1.093s] Installing merge_arrays_node script to /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/merge_arrays
+[1.094s] writing list of installed files to '/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/install.log'
+[1.118s] Invoked command in '/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays' returned '0': PYTHONPATH=/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/prefix_override:/ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/build install --record /ros2_workspace/src/WA_CodingChallenges/merge_arrays/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
